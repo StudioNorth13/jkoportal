@@ -1,2 +1,2 @@
 # jkoportal
-A fork of the unmaintained NeoPortal (https://neoportal.neocities.org)
+My take on the unmaintained NeoPortal (https://neoportal.neocities.org)
